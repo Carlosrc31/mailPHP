@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <form action="error.php" method="POST">
+    <form action="/error.php" method="POST">
         <input type="submit" value="Enviar" id="boton">
     </form>
 </body>
